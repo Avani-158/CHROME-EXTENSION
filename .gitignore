@@ -1,0 +1,38 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Log files
+*.log
+
+# Build output 
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+
+# VS Code
+.vscode/
+
+
+
+
+# The .gitignore file is used to tell Git which files and folders it should NOT track or upload to a repository.
+# In simple words:
+# 👉 It prevents unwanted files from going into GitHub.
+# “.gitignore is a configuration file used to specify intentionally untracked files that Git should ignore during version control.”
+
+
+
+
+# ✅ When should you create .gitignore?
+# ✔ Before first commit (best practice)
+# ✔ When starting a new project
+# ✔ When adding new tools or frameworks
+
+
+
